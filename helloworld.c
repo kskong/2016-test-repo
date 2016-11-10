@@ -9,6 +9,7 @@ int main(void) {
 	printf("Hello his World\n");
 	printf("Hello her World\n");
 	printf("Hello my World\n");
+	printf("2016. 11. 10\n);
 
 	return 0;
 }
